@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkresume_parsing"]=self["webpackChunkresume_parsing"]||[]).push([[628],{628:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var r=function(){var e=this,n=e._self._c;return n("div",[e._v(" Develop ")])},s=[],l={name:"Develop"},t=l,a=u(1001),c=(0,a.Z)(t,r,s,!1,null,"60b1fdca",null),f=c.exports}}]);
+//# sourceMappingURL=628.2a51b556.js.map
